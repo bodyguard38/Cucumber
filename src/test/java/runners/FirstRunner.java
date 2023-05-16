@@ -24,6 +24,7 @@ public class FirstRunner {
         // dryRun -> true oldugu takdirde eksik step kontrolu yapar fakat kodu calistirmaz!!!!
 
         // Testng ile calistirmak isterseniz classin AbstractTestngCucumberTests isimli class extend edilmelidir
+
 }
 
 
